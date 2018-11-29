@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lista_libros>
+	<libro>
+		<id_libro>1</id_libro> 
+		<isbn>978-84-08-15467-9</isbn>
+		<titulo>El silencio de la ciudad blanca</titulo>	
+		<autor>Eva García Saenz de Urturi</autor>	
+		<tema>Novela Negra</tema>
+		<editorial>Planeta</editorial>
+		<f_edicion>2016</f_edicion>
+		<num_ejemplares>1000</num_ejemplares>
+	</libro>
+
+	<libro>
+		<id_libro>2</id_libro> 
+		<isbn>978-84-01-02119-0</isbn>
+		<titulo>El visitante</titulo>	
+		<autor>Stephen King</autor>	
+		<tema>Novela Negra</tema>
+		<editorial>Plaza y Janes editores S.A</editorial>
+		<f_edicion>2018</f_edicion>
+		<num_ejemplares>1000</num_ejemplares>
+	</libro>
+
+	<libro>
+		<id_libro>3</id_libro> 
+		<isbn>978-84-08-19329-6</isbn>
+		<titulo>Los señores del tiempo</titulo>	
+		<autor>Eva García Saenz de Urturi</autor>	
+		<tema>Ciencia ficción</tema>
+		<editorial>Planeta</editorial>
+		<f_edicion>2018</f_edicion>
+		<num_ejemplares>1000</num_ejemplares>
+	</libro>
+</lista_libros>

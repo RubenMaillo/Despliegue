@@ -1,0 +1,193 @@
+header{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 10%;
+	background-color: black;
+	color: white;
+}
+
+button{
+	position: absolute;
+	width: 15%;
+	height: 36%;
+	font-size: 24px;
+	background: black;
+	color: white;
+	border-radius: 49%;
+	top: -17.5%;
+}
+
+#bLibros{
+	left: 30%;
+}
+
+#bSocios{
+	right: 30%;
+}
+
+button:hover{
+	background: grey;
+	color: black;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.migasP{
+	padding-top:5%;
+	padding-left: 5%;
+}
+
+.migasPan{
+	padding-top:5%;
+	padding-left: 5%;
+}
+
+#ini{
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	height: 50%;
+}
+
+#libros{
+	position: absolute;
+	top: 17%;
+	left: 0;
+	width: 100%;
+	height: 75%;
+}
+
+td{
+	text-align: center;
+	width: 30%;
+	height: 2em;
+}
+
+ #buscarLibro{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	left: 25%;
+	
+	width: 50%;
+	height: 25%;
+	color: white;
+}
+
+#tablaLibros{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	left: 27%;
+	right: 27%;
+	top: 30%;
+	padding-top: 2%;
+	height: 60%;
+	color: white;
+	overflow: auto;
+}
+
+
+
+#buscarSocio{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	left: 25%;
+	top: 15%;
+	width: 50%;
+	height: 20%;
+	color: white;
+}
+
+#formSocio{
+	position: absolute;
+	top: 50%;
+	left: 10%
+}
+
+#nuevoSocio{
+	position: absolute;
+	top: 50%;
+	left: 80%;
+
+}
+
+#alta, #baja{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	top: 45%;
+	width: 23%;
+	height: 40%;
+	color: white;
+	padding-top: 1%;
+	padding-left: 5%;
+	overflow: auto;
+}
+
+#alta{
+	left: 15%;
+}
+
+#baja{
+	right: 15%;
+}
+
+#alta a, #baja a{
+	color: white;
+}
+
+#alta h2, #baja h2{
+	padding-left: 20%;
+}
+
+.ns{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	text-align: center;
+	left: 25%;
+	top: 15%;
+	width: 50%;
+	height: 10%;
+	color: white;
+}
+
+#nuevoS{
+	position: absolute;
+	background: rgba(0, 0, 0, .8);
+	padding-top: 3%;
+	text-align: right;
+	padding-right: 7%;
+	left: 35%;
+	right: 35%;
+	top: 30%;
+	height: 50%;
+	color: white;
+	border-radius: 6%;
+}
+
+#anadir{
+	padding-right: 25%;
+}
+
+
+footer{
+	position: fixed;
+	bottom: 0px;
+	padding-top: 5px;
+	left: 0;
+	width: 100%;
+	height: 5%;
+	background-color: black;
+	color: white;}
+
+button, a{
+	cursor: pointer;
+}

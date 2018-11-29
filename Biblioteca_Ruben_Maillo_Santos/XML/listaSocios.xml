@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_socios>
+	<socio>
+		<id_socio>1</id_socio>
+		<nombre_apellidos>Ruben Maillo Santos</nombre_apellidos>
+		<dni>45199417R</dni>
+		<domicilio>Irun</domicilio>
+		<telefono>666666666</telefono>
+		<fecha_alta>15/10/2018</fecha_alta>
+		<fecha_baja>No</fecha_baja>
+	</socio>
+
+	<socio>
+		<id_socio>2</id_socio>
+		<nombre_apellidos>Cristian Talavera Esnal</nombre_apellidos>
+		<dni>44444444A</dni>
+		<domicilio>Zarauz</domicilio>
+		<telefono>655555555</telefono>
+		<fecha_alta>15/10/2018</fecha_alta>
+		<fecha_baja>No</fecha_baja>
+	</socio>
+
+	<socio>
+		<id_socio>3</id_socio>
+		<nombre_apellidos>Jon Campandegui Emazabel</nombre_apellidos>
+		<dni>4555555B</dni>
+		<domicilio>Amute</domicilio>
+		<telefono>644444444</telefono>
+		<fecha_alta>15/10/2018</fecha_alta>
+		<fecha_baja>16/10/2018</fecha_baja>
+	</socio>
+</lista_socios>
